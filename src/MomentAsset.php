@@ -2,7 +2,7 @@
 namespace kilyakus\widget\daterange;
 
 use yii\web\View;
-use kilyakus\base\AssetBundle;
+use kilyakus\widgets\AssetBundle;
 
 class MomentAsset extends AssetBundle
 {

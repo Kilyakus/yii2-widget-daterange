@@ -1,7 +1,7 @@
 <?php
 namespace kilyakus\widget\daterange;
 
-use kilyakus\base\AssetBundle;
+use kilyakus\widgets\AssetBundle;
 
 class DateRangePickerAsset extends AssetBundle
 {
