@@ -1,7 +1,7 @@
 <?php
 namespace kilyakus\widget\daterange;
 
-use kilyakus\base\InputWidget;
+use kilyakus\widgets\InputWidget;
 use Yii;
 use yii\base\InvalidConfigException;
 use yii\helpers\ArrayHelper;
