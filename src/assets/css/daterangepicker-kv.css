@@ -1,5 +1,5 @@
 .kv-drp-container .kv-drp-dropdown {position:relative;display:flex;align-items:center;}
-.kv-drp-dropdown .range-value {background:none;padding-left:32px;padding-right:32px;opacity:0.9;}
+.kv-drp-dropdown .range-value {background:none;padding-left:32px;padding-right:32px;opacity:0.9;cursor:pointer;background-image:linear-gradient(0deg, #F1F1F1, #FFF);box-shadow:0 0;}
 .kv-drp-dropdown .left-ind,
 .kv-drp-dropdown .right-ind {position:absolute;display:flex;}
 .kv-drp-dropdown .left-ind {left:12px;height:17px;}
